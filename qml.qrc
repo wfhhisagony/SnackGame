@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SnakeHead.qml</file>
+        <file>SnakeBody.qml</file>
+        <file>Food.qml</file>
+    </qresource>
+</RCC>
